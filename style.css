@@ -1,0 +1,160 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.navbar-and-banner-icon {
+    height: 40px;
+    width: 120px;
+}
+
+.navbar-and-banner-image {
+    height: 100vh;
+
+}
+
+.services-title {
+    font-size: 38px;
+    font-weight: bold;
+}
+
+.services-text {
+    font-size: 22px;
+    color: #616c7c;
+}
+
+.services-image {
+    width: 25%;
+}
+
+.services-title2 {
+    font-size: 25px;
+}
+
+.services-description {
+    color: #7b8794;
+}
+
+.productcard {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-headphones-bg.png");
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+    background-size: cover;
+}
+
+.productcard2 {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/ecommerce-products-laptops-bg.png");
+    width: 100%;
+    height: 300px;
+    border-radius: 10px;
+    background-size: cover;
+}
+
+.products-modal {
+    font-weight: bold;
+}
+
+.offerssection {
+    background-image: linear-gradient(to right, #f49541, #dd5d97);
+    background-size: cover;
+    width: 100vw;
+}
+
+.offers-title {
+    font-family: "Bree Serif";
+    font-size: 25px;
+    color: #ad2167;
+}
+
+.offers-text {
+    color: white;
+    font-size: 20px;
+}
+
+.s1 {
+    font-style: italic;
+    font-weight: 500;
+}
+
+.sbiimage {
+    width: 100%;
+}
+
+.trendingblogs-title {
+    color: #183b56;
+    font-weight: bold;
+}
+
+.trendingblogs-subtitle {
+    color: #183b56;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.trendingblogs-subtitle1 {
+    color: #959ead;
+}
+
+.explore {
+    background-color: #f5f7fa;
+}
+
+.exploretitle {
+    color: #183b56;
+    font-weight: bold;
+}
+
+.exploresubtitle {
+    color: #183b56;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.explore-image-name {
+    color: #1f2933;
+    font-size: 20px;
+    font-weight: 500;
+}
+
+.explorealldetails {
+    font-weight: bold;
+    color: orange;
+    font-size: 20px;
+}
+
+.explore-card1 {
+    background-color: white;
+    border-radius: 10px;
+
+}
+
+.explore-image1 {
+    border-radius: 10px;
+    width: 90%;
+}
+
+.explore-image2 {
+    border-radius: 20px;
+    width: 90%;
+}
+
+.vr-footer-bg {
+    background-color: #152c3e;
+    color: #5a7184;
+}
+
+.vr-footer-logo {
+    width: 60%;
+}
+
+.vr-footer-icon {
+    border-radius: 40px;
+    background-color: #0d2436;
+    height: 50px;
+    width: 50px;
+    padding: 10px;
+    margin: 5px;
+}
+
+.footer-subtitle {
+    font-size: 20px;
+    font-weight: bold;
+}
